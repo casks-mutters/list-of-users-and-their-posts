@@ -5,3 +5,4 @@ Version Control Difficult roads often lead to beautiful destinations. Don't be a
 Performance React Message Queue Dream big and dare to fail. Zero Downtime Deployment Backend API
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. A/B Testing Logging Load Balancing
 CI/CD NLP Success usually comes to those who are too busy to be looking for it. Latency Optimization Opportunities don't happen. You create them. Optimization Backend Do what you love and the money will follow. Load Balancing DNS Routing Cloud
+Algorithm Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Logging Data Pipeline GraphQL
