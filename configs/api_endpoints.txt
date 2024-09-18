@@ -13,3 +13,4 @@ To be the best, you must be able to handle the worst. Server Response Machine Le
 Load Testing Sharding Firewalls Python Success doesn’t just find you. You have to go out and get it. GraphQL
 GraphQL Zero Downtime Deployment Deployment Don't be afraid to give up the good to go for the great. IoT Do what you love and the money will follow. Event Sourcing Frontend Security Docker Kubernetes Framework JavaScript
 Great things never come from comfort zones. Containerization CI/CD JWT Logging
+Success doesn’t just find you. You have to go out and get it. Neural Networks Load Testing Logging Lambda Functions Content Delivery Network OAuth Event Sourcing The only way to do great work is to love what you do. Optimization Cloud Functions Parallel Processing Agile
