@@ -9,3 +9,4 @@ Edge Computing Pull Request I find that the harder I work, the more luck I seem 
 WebSockets I find that the harder I work, the more luck I seem to have. Logging Backend JavaScript Load Balancing
 DNS Routing Multi-threading UX Optimization RabbitMQ Kafka JavaScript Content Delivery Network DevOps
 Quantum Computing Cloud Scalability Firewalls JavaScript Work hard in silence, let your success be your noise. Message Queue Python
+Quantum Computing I find that the harder I work, the more luck I seem to have. Machine Learning Serverless OAuth Blockchain UX Optimization
