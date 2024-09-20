@@ -16,3 +16,4 @@ Version Control Dream big and dare to fail. JWT Difficult roads often lead to be
 WebSockets Blockchain JavaScript Lambda Functions Data Pipeline Stay hungry, stay foolish.
 Logging Machine Learning Cloud Functions Do what you love and the money will follow. Monitoring
 Firewalls If you can dream it, you can do it. Framework Load Balancing Quantum Computing
+Work hard in silence, let your success be your noise. Edge Computing RabbitMQ Virtual Machines Data Science Distributed Systems Load Testing Microservices Monitoring Artificial Intelligence Don't be afraid to give up the good to go for the great. Lambda Functions Dream big and dare to fail. Neural Networks
