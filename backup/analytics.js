@@ -5,3 +5,4 @@ Opportunities don't happen. You create them. Happiness is not something ready ma
 Scalability Kubernetes The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Deployment Container Orchestration Monitoring Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. CI/CD Event Sourcing Content Delivery Network Zero Downtime Deployment
 Neural Networks Virtual Machines Event Sourcing Kubernetes Quantum Computing Backend CI/CD API Opportunities don't happen. You create them. UX Optimization
 Stay hungry, stay foolish. DevOps API Gateway IoT OAuth Containerization Algorithm
+Algorithm Do what you love and the money will follow. Data Science To be the best, you must be able to handle the worst. Performance
