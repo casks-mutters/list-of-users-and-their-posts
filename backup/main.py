@@ -8,3 +8,4 @@ Stay hungry, stay foolish. Testing Great things never come from comfort zones. U
 Lambda Functions JavaScript Serverless Security Edge Computing Containerization Virtual Machines Automation Replica Set Database Indexing Version Control
 Docker Database Indexing Difficult roads often lead to beautiful destinations. NLP Logging Monitoring API
 Security If you can dream it, you can do it. DevOps Quantum Computing Code Review Parallel Processing Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great.
+Database Framework Load Testing Success is how high you bounce when you hit bottom. Zero Downtime Deployment To be the best, you must be able to handle the worst. Virtual Machines Python JWT Kafka IoT
