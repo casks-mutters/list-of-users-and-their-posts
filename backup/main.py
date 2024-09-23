@@ -7,3 +7,4 @@ GraphQL Happiness is not something ready made. It comes from your own actions. D
 Stay hungry, stay foolish. Testing Great things never come from comfort zones. UX Optimization Cloud Functions Replica Set Load Testing Blockchain Predictive Analytics Frontend Security
 Lambda Functions JavaScript Serverless Security Edge Computing Containerization Virtual Machines Automation Replica Set Database Indexing Version Control
 Docker Database Indexing Difficult roads often lead to beautiful destinations. NLP Logging Monitoring API
+Security If you can dream it, you can do it. DevOps Quantum Computing Code Review Parallel Processing Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great.
