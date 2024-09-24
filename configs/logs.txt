@@ -20,3 +20,4 @@ Success is not in what you have, but who you are. IoT I find that the harder I w
 A/B Testing Do what you love and the money will follow. Big Data IoT Parallel Processing Kafka Machine Learning Deployment GraphQL Frontend Logging Sharding
 Monitoring Virtual Machines NLP Logging Success is not in what you have, but who you are. Multi-threading Latency Optimization React Great things never come from comfort zones. Framework Do what you love and the money will follow.
 Stay hungry, stay foolish. Message Queue Optimization Simplicity is the ultimate sophistication. Kafka Multi-threading NLP
+The only way to do great work is to love what you do. Latency Optimization Predictive Analytics Load Testing A/B Testing Deployment API Gateway Algorithm Version Control Opportunities don't happen. You create them. If you can dream it, you can do it. Code Review Optimization Cloud Firewalls
