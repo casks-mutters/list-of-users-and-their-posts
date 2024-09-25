@@ -8,3 +8,4 @@ Innovation distinguishes between a leader and a follower. Deployment To be the b
 Edge Computing Pull Request I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. OAuth Serverless DNS Routing Blockchain
 WebSockets I find that the harder I work, the more luck I seem to have. Logging Backend JavaScript Load Balancing
 DNS Routing Multi-threading UX Optimization RabbitMQ Kafka JavaScript Content Delivery Network DevOps
+Quantum Computing Cloud Scalability Firewalls JavaScript Work hard in silence, let your success be your noise. Message Queue Python
