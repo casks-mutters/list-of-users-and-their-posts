@@ -4,3 +4,4 @@ Automation Performance Simplicity is the ultimate sophistication. API Optimizati
 Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Multi-threading Load Testing Quantum Computing Latency Optimization Machine Learning Monitoring Do what you love and the money will follow. Distributed Systems
 Scalability Kubernetes The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Deployment Container Orchestration Monitoring Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. CI/CD Event Sourcing Content Delivery Network Zero Downtime Deployment
 Neural Networks Virtual Machines Event Sourcing Kubernetes Quantum Computing Backend CI/CD API Opportunities don't happen. You create them. UX Optimization
+Stay hungry, stay foolish. DevOps API Gateway IoT OAuth Containerization Algorithm
