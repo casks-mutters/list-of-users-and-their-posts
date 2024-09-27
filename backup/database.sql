@@ -4,3 +4,4 @@ Optimization Quantum Computing Kubernetes CI/CD Content Delivery Network Message
 Cloud Functions Database WebSockets JWT GraphQL Cache Invalidation Virtual Machines
 Happiness is not something ready made. It comes from your own actions. Pull Request Agile Lambda Functions Machine Learning Algorithm
 Dream big and dare to fail. Act as if what you do makes a difference. It does. IoT Deployment Neural Networks I find that the harder I work, the more luck I seem to have. Kafka Edge Computing
+Load Testing Great things never come from comfort zones. Data Science Kubernetes Success usually comes to those who are too busy to be looking for it. Cloud Functions Virtual Machines Lambda Functions Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Database Indexing API Gateway NLP

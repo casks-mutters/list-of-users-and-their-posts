@@ -6,3 +6,4 @@ Kafka Big Data Database Indexing Performance Edge Computing Machine Learning IoT
 Replica Set Work hard in silence, let your success be your noise. Sharding Automation Load Balancing Multi-threading The only way to do great work is to love what you do.
 Container Orchestration Kubernetes Work hard in silence, let your success be your noise. Load Testing Cloud CI/CD Monitoring Database OAuth Event-driven Architecture Deployment Security Optimization
 Security Deployment Monitoring Firewalls Lambda Functions Success usually comes to those who are too busy to be looking for it. Load Balancing Sharding Event-driven Architecture Cloud Functions IoT
+Neural Networks Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Serverless Microservices
