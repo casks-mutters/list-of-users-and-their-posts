@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Blockchain Virtual Mach
 Neural Networks Optimization Artificial Intelligence Database Indexing DNS Routing DevOps Agile Container Orchestration Distributed Systems Cloud Event Sourcing Logging Containerization A/B Testing
 Work hard in silence, let your success be your noise. GraphQL Optimization Python Blockchain Latency Optimization Version Control Event-driven Architecture Big Data Distributed Systems Algorithm
 Deployment Logging JavaScript Version Control Success is how high you bounce when you hit bottom. Automation Edge Computing Big Data Work hard in silence, let your success be your noise. Machine Learning Serverless Pull Request Simplicity is the ultimate sophistication.
+Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. IoT Great things never come from comfort zones. Load Testing Deployment Kafka Algorithm
