@@ -12,3 +12,4 @@ Success doesn’t just find you. You have to go out and get it. Python DevOps Edge
 Testing Happiness is not something ready made. It comes from your own actions. OAuth Serverless Deployment Load Testing Firewalls Replica Set
 Event Sourcing OAuth Logging JavaScript DevOps Simplicity is the ultimate sophistication.
 Data Science Code Review A/B Testing Machine Learning Multi-threading RabbitMQ Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. API Gateway
+Monitoring Event-driven Architecture Distributed Systems Stay hungry, stay foolish. UX Optimization Do what you love and the money will follow. Automation React Logging Containerization Virtual Machines I find that the harder I work, the more luck I seem to have. OAuth
