@@ -19,3 +19,4 @@ Sharding Data Pipeline Virtual Machines Machine Learning Microservices Python Op
 Quantum Computing Stay hungry, stay foolish. Event Sourcing Firewalls Machine Learning Edge Computing Latency Optimization Load Balancing Framework
 Code Review Great things never come from comfort zones. Firewalls Zero Downtime Deployment Event-driven Architecture To be the best, you must be able to handle the worst. Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions.
 Message Queue Content Delivery Network Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Predictive Analytics Replica Set Success is not in what you have, but who you are. IoT Dream big and dare to fail. Data Science Kafka Server Response
+Event Sourcing Blockchain Logging Deployment Success is not in what you have, but who you are. IoT Opportunities don't happen. You create them.

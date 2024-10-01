@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Happiness is not s
 Algorithm Stay hungry, stay foolish. Virtual Machines Load Testing Automation Version Control Frontend
 Opportunities don't happen. You create them. Lambda Functions Don't be afraid to give up the good to go for the great. Machine Learning Success is how high you bounce when you hit bottom. Content Delivery Network Code Review Message Queue Framework Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Optimization Serverless NLP Artificial Intelligence
 Container Orchestration Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Pull Request
+Load Testing React Security Event-driven Architecture Firewalls Containerization Don't be afraid to give up the good to go for the great. Performance DNS Routing
