@@ -6,3 +6,4 @@ Success is not in what you have, but who you are. WebSockets Difficult roads oft
 Kafka Kubernetes Multi-threading Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Monitoring
 Kubernetes CI/CD Edge Computing Difficult roads often lead to beautiful destinations. Version Control
 CI/CD JWT Container Orchestration Neural Networks Parallel Processing Framework Kubernetes
+Sharding Dream big and dare to fail. Work hard in silence, let your success be your noise. UX Optimization To be the best, you must be able to handle the worst. A/B Testing Serverless RabbitMQ Cache Invalidation Kafka API Gateway
