@@ -6,3 +6,4 @@ Dream big and dare to fail. OAuth Deployment Kafka Do what you love and the mone
 Cloud Functions Monitoring Code Review Python GraphQL Containerization
 Algorithm Quantum Computing Replica Set Cloud Distributed Systems Event-driven Architecture IoT Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom.
 Monitoring WebSockets Testing Work hard in silence, let your success be your noise. Parallel Processing Zero Downtime Deployment
+Containerization Difficult roads often lead to beautiful destinations. Scalability GraphQL Python The only way to do great work is to love what you do. Dream big and dare to fail. Great things never come from comfort zones. To be the best, you must be able to handle the worst.

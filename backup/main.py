@@ -5,3 +5,4 @@ Great things never come from comfort zones. Code Review Kubernetes UX Optimizati
 Big Data Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Optimization Automation RabbitMQ JWT Microservices Framework API Virtual Machines Blockchain Deployment
 GraphQL Happiness is not something ready made. It comes from your own actions. Deployment Testing Lambda Functions
 Stay hungry, stay foolish. Testing Great things never come from comfort zones. UX Optimization Cloud Functions Replica Set Load Testing Blockchain Predictive Analytics Frontend Security
+Lambda Functions JavaScript Serverless Security Edge Computing Containerization Virtual Machines Automation Replica Set Database Indexing Version Control

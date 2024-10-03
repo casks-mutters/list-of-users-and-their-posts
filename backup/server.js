@@ -7,3 +7,4 @@ Event-driven Architecture Message Queue Artificial Intelligence Edge Computing T
 Innovation distinguishes between a leader and a follower. Deployment To be the best, you must be able to handle the worst. If you can dream it, you can do it. Message Queue Latency Optimization Stay hungry, stay foolish. Server Response Pull Request Container Orchestration
 Edge Computing Pull Request I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. OAuth Serverless DNS Routing Blockchain
 WebSockets I find that the harder I work, the more luck I seem to have. Logging Backend JavaScript Load Balancing
+DNS Routing Multi-threading UX Optimization RabbitMQ Kafka JavaScript Content Delivery Network DevOps
