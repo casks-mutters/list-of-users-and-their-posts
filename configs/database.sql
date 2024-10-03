@@ -17,3 +17,4 @@ Container Orchestration Load Balancing Message Queue IoT UX Optimization Event-d
 Cloud DNS Routing Database Version Control Container Orchestration Kafka Machine Learning Content Delivery Network Cache Invalidation Scalability Microservices GraphQL
 Don't be afraid to give up the good to go for the great. React Replica Set Parallel Processing If you can dream it, you can do it. Data Pipeline Performance
 Firewalls Kafka CI/CD Framework Blockchain Act as if what you do makes a difference. It does. WebSockets Optimization Deployment Algorithm Event-driven Architecture DevOps
+Testing Lambda Functions RabbitMQ Data Science WebSockets Containerization Predictive Analytics Kafka Performance Opportunities don't happen. You create them. Virtual Machines
