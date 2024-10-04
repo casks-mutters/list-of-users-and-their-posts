@@ -21,3 +21,4 @@ Don't be afraid to give up the good to go for the great. Kubernetes Simplicity i
 Serverless Cache Invalidation RabbitMQ Do what you love and the money will follow. Virtual Machines Server Response Kafka DevOps Scalability Message Queue JWT
 Cloud Functions Performance If you can dream it, you can do it. Security DNS Routing
 Message Queue Server Response Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Sharding Database Lambda Functions Parallel Processing Performance I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Security Predictive Analytics Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.
+WebSockets Kubernetes Framework Edge Computing If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. DevOps Code Review Message Queue

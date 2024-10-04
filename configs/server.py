@@ -12,3 +12,4 @@ CI/CD DevOps WebSockets Opportunities don't happen. You create them. Quantum Com
 Parallel Processing Frontend Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Predictive Analytics Opportunities don't happen. You create them. Containerization Stay hungry, stay foolish. Logging Firewalls
 Code Review Message Queue API Content Delivery Network Success doesn’t just find you. You have to go out and get it. Replica Set Machine Learning NLP
 API NLP DevOps If you can dream it, you can do it. RabbitMQ Dream big and dare to fail. JavaScript Docker
+JavaScript Backend API Gateway Containerization RabbitMQ DNS Routing Agile Deployment Database Indexing Testing Dream big and dare to fail. Do what you love and the money will follow. Edge Computing Replica Set Database
