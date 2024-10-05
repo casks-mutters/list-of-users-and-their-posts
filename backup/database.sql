@@ -3,3 +3,4 @@ A/B Testing Cloud Neural Networks Load Testing Difficult roads often lead to bea
 Optimization Quantum Computing Kubernetes CI/CD Content Delivery Network Message Queue API Difficult roads often lead to beautiful destinations. Virtual Machines Security Simplicity is the ultimate sophistication. IoT
 Cloud Functions Database WebSockets JWT GraphQL Cache Invalidation Virtual Machines
 Happiness is not something ready made. It comes from your own actions. Pull Request Agile Lambda Functions Machine Learning Algorithm
+Dream big and dare to fail. Act as if what you do makes a difference. It does. IoT Deployment Neural Networks I find that the harder I work, the more luck I seem to have. Kafka Edge Computing
