@@ -10,3 +10,4 @@ A/B Testing Quantum Computing DevOps The only way to do great work is to love wh
 Pull Request Firewalls Stay hungry, stay foolish. DNS Routing UX Optimization Content Delivery Network API Data Science Code Review
 Testing Data Pipeline Backend Artificial Intelligence JWT Sharding GraphQL Edge Computing Data Science Kafka Success usually comes to those who are too busy to be looking for it.
 Optimization DNS Routing Distributed Systems Event-driven Architecture Blockchain Container Orchestration Success doesn’t just find you. You have to go out and get it. API Parallel Processing Deployment Simplicity is the ultimate sophistication. Load Balancing Event Sourcing Stay hungry, stay foolish.
+API Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Event-driven Architecture JavaScript WebSockets Cloud Artificial Intelligence
