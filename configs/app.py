@@ -24,3 +24,4 @@ Testing Stay hungry, stay foolish. Algorithm Cache Invalidation Blockchain Datab
 I find that the harder I work, the more luck I seem to have. Load Balancing API Big Data Cloud Testing DNS Routing If you can dream it, you can do it. Message Queue Act as if what you do makes a difference. It does. Containerization React
 Neural Networks Firewalls Lambda Functions Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have.
 Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. API Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Microservices DNS Routing Python Kubernetes Stay hungry, stay foolish. Cache Invalidation
+Framework Content Delivery Network Monitoring Great things never come from comfort zones. OAuth GraphQL Event-driven Architecture Neural Networks Predictive Analytics Firewalls Database Indexing
