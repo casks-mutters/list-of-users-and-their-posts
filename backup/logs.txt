@@ -5,3 +5,4 @@ Stay hungry, stay foolish. Code Review Edge Computing Difficult roads often lead
 Dream big and dare to fail. OAuth Deployment Kafka Do what you love and the money will follow. Server Response Scalability Virtual Machines Blockchain
 Cloud Functions Monitoring Code Review Python GraphQL Containerization
 Algorithm Quantum Computing Replica Set Cloud Distributed Systems Event-driven Architecture IoT Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom.
+Monitoring WebSockets Testing Work hard in silence, let your success be your noise. Parallel Processing Zero Downtime Deployment
