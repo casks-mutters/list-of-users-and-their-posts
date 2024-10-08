@@ -12,3 +12,4 @@ Automation Content Delivery Network Latency Optimization Message Queue Lambda Fu
 To be the best, you must be able to handle the worst. Server Response Machine Learning Message Queue Data Science Success is how high you bounce when you hit bottom. Virtual Machines A/B Testing
 Load Testing Sharding Firewalls Python Success doesn’t just find you. You have to go out and get it. GraphQL
 GraphQL Zero Downtime Deployment Deployment Don't be afraid to give up the good to go for the great. IoT Do what you love and the money will follow. Event Sourcing Frontend Security Docker Kubernetes Framework JavaScript
+Great things never come from comfort zones. Containerization CI/CD JWT Logging
