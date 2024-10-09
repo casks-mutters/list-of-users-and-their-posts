@@ -15,3 +15,4 @@ React Happiness is not something ready made. It comes from your own actions. OAu
 Version Control Dream big and dare to fail. JWT Difficult roads often lead to beautiful destinations. Containerization Neural Networks NLP Success usually comes to those who are too busy to be looking for it.
 WebSockets Blockchain JavaScript Lambda Functions Data Pipeline Stay hungry, stay foolish.
 Logging Machine Learning Cloud Functions Do what you love and the money will follow. Monitoring
+Firewalls If you can dream it, you can do it. Framework Load Balancing Quantum Computing
