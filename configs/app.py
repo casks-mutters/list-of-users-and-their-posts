@@ -22,3 +22,4 @@ Framework Neural Networks Multi-threading Agile Machine Learning Event Sourcing 
 Quantum Computing Neural Networks Python Content Delivery Network The only way to do great work is to love what you do.
 Testing Stay hungry, stay foolish. Algorithm Cache Invalidation Blockchain Database Indexing Zero Downtime Deployment Cloud Dream big and dare to fail.
 I find that the harder I work, the more luck I seem to have. Load Balancing API Big Data Cloud Testing DNS Routing If you can dream it, you can do it. Message Queue Act as if what you do makes a difference. It does. Containerization React
+Neural Networks Firewalls Lambda Functions Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have.
