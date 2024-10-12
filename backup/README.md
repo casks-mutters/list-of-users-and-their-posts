@@ -7,3 +7,4 @@ CI/CD Success is how high you bounce when you hit bottom. I find that the harder
 API Backend Neural Networks Virtual Machines CI/CD Distributed Systems Logging IoT
 I find that the harder I work, the more luck I seem to have. Scalability Database Indexing NLP Neural Networks
 WebSockets If you can dream it, you can do it. Stay hungry, stay foolish. Python Lambda Functions Firewalls Serverless Event Sourcing Data Pipeline
+Machine Learning Scalability Cloud Functions Success is not in what you have, but who you are. Replica Set Kubernetes RabbitMQ OAuth Act as if what you do makes a difference. It does. Parallel Processing IoT Success doesn’t just find you. You have to go out and get it. Event-driven Architecture
