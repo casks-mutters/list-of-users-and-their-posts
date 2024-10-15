@@ -9,3 +9,4 @@ Kubernetes I find that the harder I work, the more luck I seem to have. Scalabil
 JavaScript Event-driven Architecture NLP Virtual Machines I find that the harder I work, the more luck I seem to have. Predictive Analytics Containerization Quantum Computing Framework To be the best, you must be able to handle the worst.
 Version Control NLP Quantum Computing Database Indexing Cloud Automation DNS Routing Kafka Backend Performance
 CI/CD IoT Serverless Innovation distinguishes between a leader and a follower. Cloud Functions OAuth The only way to do great work is to love what you do. Version Control Code Review Blockchain Performance A/B Testing
+Cloud Functions Predictive Analytics A/B Testing Message Queue Opportunities don't happen. You create them. Quantum Computing IoT Neural Networks Testing Database OAuth
