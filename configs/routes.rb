@@ -11,3 +11,4 @@ Content Delivery Network Event-driven Architecture Success usually comes to thos
 Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Python Machine Learning Edge Computing DevOps Database Indexing Version Control Algorithm
 Success is how high you bounce when you hit bottom. Data Science DNS Routing Lambda Functions UX Optimization
 Frontend Scalability Big Data Sharding Optimization Do what you love and the money will follow. Lambda Functions Container Orchestration Data Science NLP Cache Invalidation Database Message Queue Predictive Analytics Success is how high you bounce when you hit bottom.
+Database Pull Request JWT Virtual Machines Distributed Systems Difficult roads often lead to beautiful destinations. Parallel Processing
