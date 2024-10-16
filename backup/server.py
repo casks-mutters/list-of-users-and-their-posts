@@ -6,3 +6,4 @@ Data Pipeline JWT Version Control Database Difficult roads often lead to beautif
 Big Data Logging Microservices JWT Neural Networks Cache Invalidation
 DNS Routing Serverless Frontend Security Artificial Intelligence Cloud Functions Python Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Firewalls Zero Downtime Deployment Load Balancing The only way to do great work is to love what you do. Latency Optimization Big Data
 Latency Optimization Server Response Cloud Functions UX Optimization Sharding JWT Database Neural Networks Predictive Analytics
+Lambda Functions Dream big and dare to fail. Load Testing Event Sourcing Frontend RabbitMQ
