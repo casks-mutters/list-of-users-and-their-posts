@@ -19,3 +19,4 @@ Optimization Serverless Deployment Edge Computing NLP A/B Testing Dream big and 
 RabbitMQ Automation Framework React Message Queue Testing Server Response Security Event-driven Architecture Simplicity is the ultimate sophistication. Data Pipeline Success is how high you bounce when you hit bottom. Cloud Container Orchestration
 Don't be afraid to give up the good to go for the great. Kubernetes Simplicity is the ultimate sophistication. Containerization Artificial Intelligence Microservices Opportunities don't happen. You create them. Replica Set JavaScript Blockchain Happiness is not something ready made. It comes from your own actions. Quantum Computing Automation Stay hungry, stay foolish. RabbitMQ
 Serverless Cache Invalidation RabbitMQ Do what you love and the money will follow. Virtual Machines Server Response Kafka DevOps Scalability Message Queue JWT
+Cloud Functions Performance If you can dream it, you can do it. Security DNS Routing
