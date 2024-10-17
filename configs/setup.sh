@@ -14,3 +14,4 @@ Code Review JWT Work hard in silence, let your success be your noise. Distribute
 React Happiness is not something ready made. It comes from your own actions. OAuth Multi-threading Containerization IoT Testing Simplicity is the ultimate sophistication. Neural Networks Success is how high you bounce when you hit bottom. CI/CD Kubernetes API Distributed Systems Message Queue
 Version Control Dream big and dare to fail. JWT Difficult roads often lead to beautiful destinations. Containerization Neural Networks NLP Success usually comes to those who are too busy to be looking for it.
 WebSockets Blockchain JavaScript Lambda Functions Data Pipeline Stay hungry, stay foolish.
+Logging Machine Learning Cloud Functions Do what you love and the money will follow. Monitoring
