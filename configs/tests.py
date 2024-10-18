@@ -18,3 +18,4 @@ API Gateway Don't be afraid to give up the good to go for the great. Database In
 Success is how high you bounce when you hit bottom. Blockchain Deployment Simplicity is the ultimate sophistication. DevOps IoT Edge Computing Kafka
 Firewalls Sharding Lambda Functions GraphQL Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Load Testing Framework Machine Learning Scalability Version Control
 Virtual Machines Latency Optimization Monitoring Distributed Systems Content Delivery Network Parallel Processing Logging Replica Set Automation To be the best, you must be able to handle the worst.
+DNS Routing Content Delivery Network Zero Downtime Deployment Replica Set Cloud Virtual Machines API Pull Request
