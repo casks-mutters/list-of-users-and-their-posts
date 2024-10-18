@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Security To be the 
 Message Queue JavaScript Don't be afraid to give up the good to go for the great. Machine Learning Simplicity is the ultimate sophistication. Big Data
 Content Delivery Network Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Message Queue Cloud React Success is not in what you have, but who you are. Code Review Don't be afraid to give up the good to go for the great. If you can dream it, you can do it.
 Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Python Machine Learning Edge Computing DevOps Database Indexing Version Control Algorithm
+Success is how high you bounce when you hit bottom. Data Science DNS Routing Lambda Functions UX Optimization
