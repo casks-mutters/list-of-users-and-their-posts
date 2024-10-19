@@ -6,3 +6,4 @@ DNS Routing Performance API Gateway UX Optimization I find that the harder I wor
 To be the best, you must be able to handle the worst. Kafka Success doesn’t just find you. You have to go out and get it. Data Pipeline Automation Message Queue Version Control Virtual Machines Do what you love and the money will follow. Backend Cache Invalidation Database Indexing
 To be the best, you must be able to handle the worst. Deployment Optimization Framework JWT React A/B Testing UX Optimization Simplicity is the ultimate sophistication.
 Monitoring NLP RabbitMQ Load Testing API Gateway Act as if what you do makes a difference. It does. API Security Cache Invalidation Load Balancing Server Response Predictive Analytics Algorithm
+Event Sourcing Sharding Serverless Code Review Virtual Machines Message Queue JavaScript Multi-threading React Big Data Algorithm Do what you love and the money will follow. Database Indexing Agile
