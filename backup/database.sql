@@ -2,3 +2,4 @@ Dream big and dare to fail. Firewalls I find that the harder I work, the more lu
 A/B Testing Cloud Neural Networks Load Testing Difficult roads often lead to beautiful destinations. Automation Code Review Machine Learning RabbitMQ Testing
 Optimization Quantum Computing Kubernetes CI/CD Content Delivery Network Message Queue API Difficult roads often lead to beautiful destinations. Virtual Machines Security Simplicity is the ultimate sophistication. IoT
 Cloud Functions Database WebSockets JWT GraphQL Cache Invalidation Virtual Machines
+Happiness is not something ready made. It comes from your own actions. Pull Request Agile Lambda Functions Machine Learning Algorithm
