@@ -14,3 +14,4 @@ Artificial Intelligence Content Delivery Network Backend Python Difficult roads 
 Do what you love and the money will follow. Deployment Logging CI/CD OAuth Difficult roads often lead to beautiful destinations. Backend Predictive Analytics Database GraphQL IoT Dream big and dare to fail.
 Difficult roads often lead to beautiful destinations. Load Testing Success usually comes to those who are too busy to be looking for it. Multi-threading Load Balancing
 Artificial Intelligence Testing Dream big and dare to fail. Security JavaScript Deployment UX Optimization Firewalls Logging Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have.
+Success is not in what you have, but who you are. JWT API Gateway Sharding Do what you love and the money will follow. A/B Testing Deployment NLP Content Delivery Network Optimization Data Pipeline GraphQL Kafka Virtual Machines
