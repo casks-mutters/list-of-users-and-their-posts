@@ -18,3 +18,4 @@ Replica Set API OAuth Predictive Analytics Success usually comes to those who ar
 Great things never come from comfort zones. Cache Invalidation Do what you love and the money will follow. The only way to do great work is to love what you do. Replica Set
 Parallel Processing Database Security Agile Zero Downtime Deployment Quantum Computing Act as if what you do makes a difference. It does. Microservices Machine Learning UX Optimization
 Do what you love and the money will follow. Great things never come from comfort zones. Blockchain Code Review Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Serverless A/B Testing
+Framework Neural Networks Multi-threading Agile Machine Learning Event Sourcing Python DevOps Quantum Computing Container Orchestration Logging Distributed Systems Data Science Replica Set IoT
