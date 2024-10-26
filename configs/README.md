@@ -14,3 +14,4 @@ Logging Load Balancing Event-driven Architecture GraphQL DNS Routing Performance
 Data Pipeline Do what you love and the money will follow. Quantum Computing Automation RabbitMQ Content Delivery Network
 JavaScript Virtual Machines Pull Request Cloud JWT Performance API Gateway Artificial Intelligence Kafka Backend Security Automation Stay hungry, stay foolish. Containerization Monitoring
 Security Event Sourcing Containerization RabbitMQ API Gateway Artificial Intelligence Testing Data Pipeline Kafka Serverless Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does.
+Performance Firewalls Innovation distinguishes between a leader and a follower. Scalability Docker The only way to do great work is to love what you do. Latency Optimization
