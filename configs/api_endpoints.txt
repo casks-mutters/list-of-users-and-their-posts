@@ -10,3 +10,4 @@ Distributed Systems Firewalls Dream big and dare to fail. Load Balancing WebSock
 WebSockets Scalability Success doesn’t just find you. You have to go out and get it. Event Sourcing Firewalls Deployment Serverless Code Review Multi-threading Database Indexing Load Balancing Message Queue OAuth
 Automation Content Delivery Network Latency Optimization Message Queue Lambda Functions Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Frontend
 To be the best, you must be able to handle the worst. Server Response Machine Learning Message Queue Data Science Success is how high you bounce when you hit bottom. Virtual Machines A/B Testing
+Load Testing Sharding Firewalls Python Success doesn’t just find you. You have to go out and get it. GraphQL
