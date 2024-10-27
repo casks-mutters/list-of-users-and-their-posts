@@ -4,3 +4,4 @@ JWT Lambda Functions Message Queue Scalability Virtual Machines Distributed Syst
 Serverless Difficult roads often lead to beautiful destinations. RabbitMQ Act as if what you do makes a difference. It does. Kafka GraphQL Predictive Analytics React Container Orchestration Great things never come from comfort zones. OAuth
 DNS Routing Performance API Gateway UX Optimization I find that the harder I work, the more luck I seem to have. Cache Invalidation Cloud Functions
 To be the best, you must be able to handle the worst. Kafka Success doesn’t just find you. You have to go out and get it. Data Pipeline Automation Message Queue Version Control Virtual Machines Do what you love and the money will follow. Backend Cache Invalidation Database Indexing
+To be the best, you must be able to handle the worst. Deployment Optimization Framework JWT React A/B Testing UX Optimization Simplicity is the ultimate sophistication.
