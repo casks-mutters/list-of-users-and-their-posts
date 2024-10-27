@@ -13,3 +13,4 @@ Great things never come from comfort zones. Data Pipeline Success is how high yo
 Logging Load Balancing Event-driven Architecture GraphQL DNS Routing Performance Replica Set
 Data Pipeline Do what you love and the money will follow. Quantum Computing Automation RabbitMQ Content Delivery Network
 JavaScript Virtual Machines Pull Request Cloud JWT Performance API Gateway Artificial Intelligence Kafka Backend Security Automation Stay hungry, stay foolish. Containerization Monitoring
+Security Event Sourcing Containerization RabbitMQ API Gateway Artificial Intelligence Testing Data Pipeline Kafka Serverless Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does.
