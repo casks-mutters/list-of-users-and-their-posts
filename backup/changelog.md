@@ -4,3 +4,4 @@ Distributed Systems Code Review Pull Request Simplicity is the ultimate sophisti
 Success is how high you bounce when you hit bottom. Containerization Server Response Performance OAuth Lambda Functions Backend Microservices Blockchain GraphQL Parallel Processing Python React Framework
 Kafka Big Data Database Indexing Performance Edge Computing Machine Learning IoT Agile Content Delivery Network A/B Testing Stay hungry, stay foolish.
 Replica Set Work hard in silence, let your success be your noise. Sharding Automation Load Balancing Multi-threading The only way to do great work is to love what you do.
+Container Orchestration Kubernetes Work hard in silence, let your success be your noise. Load Testing Cloud CI/CD Monitoring Database OAuth Event-driven Architecture Deployment Security Optimization
