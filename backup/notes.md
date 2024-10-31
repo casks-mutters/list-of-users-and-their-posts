@@ -8,3 +8,4 @@ DNS Routing Event-driven Architecture Code Review Logging Predictive Analytics A
 Act as if what you do makes a difference. It does. RabbitMQ Virtual Machines Docker Load Testing Machine Learning Kubernetes Great things never come from comfort zones. Simplicity is the ultimate sophistication.
 Firewalls Version Control Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Cloud Container Orchestration CI/CD Kafka Replica Set WebSockets Dream big and dare to fail. Cloud Functions
 Pull Request To be the best, you must be able to handle the worst. API Performance A/B Testing
+Virtual Machines Serverless Happiness is not something ready made. It comes from your own actions. Load Balancing Distributed Systems Big Data Dream big and dare to fail. Content Delivery Network Python Kubernetes Data Pipeline Logging Cache Invalidation CI/CD
