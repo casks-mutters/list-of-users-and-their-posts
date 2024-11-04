@@ -8,3 +8,4 @@ Act as if what you do makes a difference. It does. Backend Security Kafka DevOps
 Predictive Analytics Testing Act as if what you do makes a difference. It does. WebSockets Monitoring Cloud API Simplicity is the ultimate sophistication.
 Distributed Systems Firewalls Dream big and dare to fail. Load Balancing WebSockets IoT Serverless Code Review JavaScript
 WebSockets Scalability Success doesn’t just find you. You have to go out and get it. Event Sourcing Firewalls Deployment Serverless Code Review Multi-threading Database Indexing Load Balancing Message Queue OAuth
+Automation Content Delivery Network Latency Optimization Message Queue Lambda Functions Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Frontend
