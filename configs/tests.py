@@ -15,3 +15,4 @@ Sharding Content Delivery Network JWT JavaScript Event-driven Architecture Great
 IoT Great things never come from comfort zones. DNS Routing Frontend Container Orchestration Big Data If you can dream it, you can do it. Pull Request Dream big and dare to fail. Success is how high you bounce when you hit bottom. Event Sourcing UX Optimization Testing Deployment Success doesn’t just find you. You have to go out and get it.
 Kafka If you can dream it, you can do it. NLP Database Indexing Firewalls GraphQL Edge Computing Sharding
 API Gateway Don't be afraid to give up the good to go for the great. Database Indexing Python Great things never come from comfort zones. WebSockets Difficult roads often lead to beautiful destinations. NLP Docker RabbitMQ Parallel Processing
+Success is how high you bounce when you hit bottom. Blockchain Deployment Simplicity is the ultimate sophistication. DevOps IoT Edge Computing Kafka

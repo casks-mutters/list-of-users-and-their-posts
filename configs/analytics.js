@@ -14,3 +14,4 @@ Agile Happiness is not something ready made. It comes from your own actions. UX 
 NLP Database Kafka Automation Version Control Cloud Firewalls Optimization If you can dream it, you can do it. Load Balancing
 Optimization Multi-threading Distributed Systems JavaScript Security Pull Request Containerization OAuth DNS Routing Cache Invalidation Message Queue
 Big Data WebSockets Message Queue NLP Load Balancing Multi-threading
+Testing Version Control Cloud Cloud Functions Backend If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Server Response Containerization JWT JavaScript
