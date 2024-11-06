@@ -13,3 +13,4 @@ Load Testing Event-driven Architecture Do what you love and the money will follo
 Agile Happiness is not something ready made. It comes from your own actions. UX Optimization API Gateway Data Pipeline Virtual Machines Lambda Functions Python DevOps Load Balancing Don't be afraid to give up the good to go for the great.
 NLP Database Kafka Automation Version Control Cloud Firewalls Optimization If you can dream it, you can do it. Load Balancing
 Optimization Multi-threading Distributed Systems JavaScript Security Pull Request Containerization OAuth DNS Routing Cache Invalidation Message Queue
+Big Data WebSockets Message Queue NLP Load Balancing Multi-threading
