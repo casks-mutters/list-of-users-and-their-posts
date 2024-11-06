@@ -14,3 +14,4 @@ Algorithm Agile JavaScript Monitoring DevOps Testing UX Optimization Great thing
 WebSockets Containerization Cloud Machine Learning Latency Optimization Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Algorithm Load Balancing Deployment Cloud Functions API Gateway Simplicity is the ultimate sophistication. Predictive Analytics Database
 Data Science Microservices Monitoring Virtual Machines Cloud Security
 Container Orchestration Backend The only way to do great work is to love what you do. Parallel Processing Big Data RabbitMQ Monitoring Work hard in silence, let your success be your noise. Data Pipeline Multi-threading Sharding Serverless
+Replica Set API OAuth Predictive Analytics Success usually comes to those who are too busy to be looking for it. JavaScript Simplicity is the ultimate sophistication. Sharding API Gateway
