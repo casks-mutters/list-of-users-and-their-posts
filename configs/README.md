@@ -12,3 +12,4 @@ Cloud Success is not in what you have, but who you are. Distributed Systems Arti
 Great things never come from comfort zones. Data Pipeline Success is how high you bounce when you hit bottom. Predictive Analytics Opportunities don't happen. You create them. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Database Version Control CI/CD Cache Invalidation
 Logging Load Balancing Event-driven Architecture GraphQL DNS Routing Performance Replica Set
 Data Pipeline Do what you love and the money will follow. Quantum Computing Automation RabbitMQ Content Delivery Network
+JavaScript Virtual Machines Pull Request Cloud JWT Performance API Gateway Artificial Intelligence Kafka Backend Security Automation Stay hungry, stay foolish. Containerization Monitoring
