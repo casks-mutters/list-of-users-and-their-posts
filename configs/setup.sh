@@ -10,3 +10,4 @@ Neural Networks Agile Success is how high you bounce when you hit bottom. API Ga
 To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Message Queue Docker OAuth Database Indexing Quantum Computing
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. A/B Testing Neural Networks Sharding
 Success doesn’t just find you. You have to go out and get it. Testing Frontend Dream big and dare to fail. Firewalls To be the best, you must be able to handle the worst. GraphQL Version Control The only way to do great work is to love what you do. Data Pipeline Sharding Replica Set Serverless
+Code Review JWT Work hard in silence, let your success be your noise. Distributed Systems Dream big and dare to fail. Multi-threading Data Pipeline Firewalls Great things never come from comfort zones. Monitoring Kubernetes
