@@ -11,3 +11,4 @@ IoT Content Delivery Network The only way to do great work is to love what you d
 Cloud Success is not in what you have, but who you are. Distributed Systems Artificial Intelligence Serverless Dream big and dare to fail.
 Great things never come from comfort zones. Data Pipeline Success is how high you bounce when you hit bottom. Predictive Analytics Opportunities don't happen. You create them. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Database Version Control CI/CD Cache Invalidation
 Logging Load Balancing Event-driven Architecture GraphQL DNS Routing Performance Replica Set
+Data Pipeline Do what you love and the money will follow. Quantum Computing Automation RabbitMQ Content Delivery Network

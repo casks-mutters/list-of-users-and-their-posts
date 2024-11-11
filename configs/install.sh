@@ -7,3 +7,4 @@ JavaScript Act as if what you do makes a difference. It does. RabbitMQ Database 
 Parallel Processing Blockchain Success is how high you bounce when you hit bottom. DNS Routing Database Indexing Version Control JavaScript Python
 Pull Request Distributed Systems Event-driven Architecture Big Data DevOps Containerization Success doesn’t just find you. You have to go out and get it. Predictive Analytics I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom.
 Firewalls NLP Blockchain Cloud Functions Container Orchestration Kafka RabbitMQ Logging Lambda Functions Automation A/B Testing Content Delivery Network Sharding Message Queue Edge Computing
+Microservices Lambda Functions Don't be afraid to give up the good to go for the great. Content Delivery Network Opportunities don't happen. You create them. Cloud Functions Scalability Agile
