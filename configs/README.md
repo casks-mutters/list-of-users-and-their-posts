@@ -10,3 +10,4 @@ CI/CD Event-driven Architecture Code Review Don't be afraid to give up the good 
 IoT Content Delivery Network The only way to do great work is to love what you do. Frontend I find that the harder I work, the more luck I seem to have. Firewalls Zero Downtime Deployment JavaScript Success doesn’t just find you. You have to go out and get it.
 Cloud Success is not in what you have, but who you are. Distributed Systems Artificial Intelligence Serverless Dream big and dare to fail.
 Great things never come from comfort zones. Data Pipeline Success is how high you bounce when you hit bottom. Predictive Analytics Opportunities don't happen. You create them. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Database Version Control CI/CD Cache Invalidation
+Logging Load Balancing Event-driven Architecture GraphQL DNS Routing Performance Replica Set
