@@ -14,3 +14,4 @@ Automation Cloud Functions Big Data Blockchain Machine Learning Containerization
 Containerization IoT Message Queue Kafka Don't be afraid to give up the good to go for the great. Testing Performance Cache Invalidation Container Orchestration Microservices Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence
 Scalability Python Replica Set OAuth Firewalls Edge Computing Kafka Virtual Machines Container Orchestration GraphQL
 Container Orchestration Load Balancing Message Queue IoT UX Optimization Event-driven Architecture JWT A/B Testing Framework API Gateway API
+Cloud DNS Routing Database Version Control Container Orchestration Kafka Machine Learning Content Delivery Network Cache Invalidation Scalability Microservices GraphQL
