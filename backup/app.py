@@ -2,3 +2,4 @@ Backend Happiness is not something ready made. It comes from your own actions. P
 API RabbitMQ Code Review Quantum Computing Kafka CI/CD Pull Request Data Science Event Sourcing Docker Machine Learning Blockchain Security The only way to do great work is to love what you do. Scalability
 JWT Lambda Functions Message Queue Scalability Virtual Machines Distributed Systems DevOps Version Control Monitoring API Happiness is not something ready made. It comes from your own actions. Edge Computing Kubernetes A/B Testing
 Serverless Difficult roads often lead to beautiful destinations. RabbitMQ Act as if what you do makes a difference. It does. Kafka GraphQL Predictive Analytics React Container Orchestration Great things never come from comfort zones. OAuth
+DNS Routing Performance API Gateway UX Optimization I find that the harder I work, the more luck I seem to have. Cache Invalidation Cloud Functions
