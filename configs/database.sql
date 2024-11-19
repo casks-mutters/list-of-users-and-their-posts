@@ -13,3 +13,4 @@ Great things never come from comfort zones. React Optimization Frontend If you c
 Automation Cloud Functions Big Data Blockchain Machine Learning Containerization Microservices Monitoring Backend Distributed Systems Innovation distinguishes between a leader and a follower. Python GraphQL
 Containerization IoT Message Queue Kafka Don't be afraid to give up the good to go for the great. Testing Performance Cache Invalidation Container Orchestration Microservices Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence
 Scalability Python Replica Set OAuth Firewalls Edge Computing Kafka Virtual Machines Container Orchestration GraphQL
+Container Orchestration Load Balancing Message Queue IoT UX Optimization Event-driven Architecture JWT A/B Testing Framework API Gateway API
