@@ -7,3 +7,4 @@ Kubernetes Microservices Testing Neural Networks Replica Set Database I find tha
 Act as if what you do makes a difference. It does. Backend Security Kafka DevOps Stay hungry, stay foolish. Parallel Processing Testing Innovation distinguishes between a leader and a follower.
 Predictive Analytics Testing Act as if what you do makes a difference. It does. WebSockets Monitoring Cloud API Simplicity is the ultimate sophistication.
 Distributed Systems Firewalls Dream big and dare to fail. Load Balancing WebSockets IoT Serverless Code Review JavaScript
+WebSockets Scalability Success doesn’t just find you. You have to go out and get it. Event Sourcing Firewalls Deployment Serverless Code Review Multi-threading Database Indexing Load Balancing Message Queue OAuth
