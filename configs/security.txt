@@ -5,3 +5,4 @@ Load Testing Microservices Data Science A/B Testing Do what you love and the mon
 Content Delivery Network React Backend DevOps Predictive Analytics Python Kubernetes
 Backend CI/CD Pull Request Kafka Success usually comes to those who are too busy to be looking for it. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Distributed Systems OAuth Monitoring Machine Learning Load Balancing Big Data
 Framework Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. IoT Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Deployment Stay hungry, stay foolish.
+Predictive Analytics CI/CD Neural Networks Blockchain Simplicity is the ultimate sophistication. Performance API Gateway Act as if what you do makes a difference. It does.
