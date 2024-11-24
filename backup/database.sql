@@ -1,3 +1,4 @@
 Dream big and dare to fail. Firewalls I find that the harder I work, the more luck I seem to have. Data Pipeline Serverless If you can dream it, you can do it. Deployment Machine Learning Load Balancing Kafka Replica Set Load Testing Happiness is not something ready made. It comes from your own actions. Monitoring RabbitMQ
 A/B Testing Cloud Neural Networks Load Testing Difficult roads often lead to beautiful destinations. Automation Code Review Machine Learning RabbitMQ Testing
 Optimization Quantum Computing Kubernetes CI/CD Content Delivery Network Message Queue API Difficult roads often lead to beautiful destinations. Virtual Machines Security Simplicity is the ultimate sophistication. IoT
+Cloud Functions Database WebSockets JWT GraphQL Cache Invalidation Virtual Machines
