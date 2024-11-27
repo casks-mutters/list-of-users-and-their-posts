@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. DevOps Python API Gateway Dock
 Monitoring I find that the harder I work, the more luck I seem to have. Artificial Intelligence API Algorithm Edge Computing Do what you love and the money will follow.
 Optimization IoT Backend Sharding Work hard in silence, let your success be your noise. Deployment The only way to do great work is to love what you do. Container Orchestration Database
 Great things never come from comfort zones. Work hard in silence, let your success be your noise. Firewalls Cloud Functions Edge Computing React Monitoring A/B Testing Backend Server Response Kafka DNS Routing Event Sourcing
+IoT Quantum Computing Server Response Load Testing Innovation distinguishes between a leader and a follower. Kafka Great things never come from comfort zones. Docker Predictive Analytics Automation Parallel Processing Security I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
