@@ -6,3 +6,4 @@ Algorithm API Gateway Success doesn’t just find you. You have to go out and get 
 Kafka Opportunities don't happen. You create them. Microservices Load Testing Serverless I find that the harder I work, the more luck I seem to have.
 DNS Routing Event-driven Architecture Code Review Logging Predictive Analytics Automation Work hard in silence, let your success be your noise. Microservices Content Delivery Network Pull Request Parallel Processing Cloud Database Server Response API Gateway
 Act as if what you do makes a difference. It does. RabbitMQ Virtual Machines Docker Load Testing Machine Learning Kubernetes Great things never come from comfort zones. Simplicity is the ultimate sophistication.
+Firewalls Version Control Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Cloud Container Orchestration CI/CD Kafka Replica Set WebSockets Dream big and dare to fail. Cloud Functions
