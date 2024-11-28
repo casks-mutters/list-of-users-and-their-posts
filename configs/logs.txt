@@ -12,3 +12,4 @@ Artificial Intelligence Server Response Great things never come from comfort zon
 Success is not in what you have, but who you are. DevOps Python API Gateway Docker Event-driven Architecture Big Data Success usually comes to those who are too busy to be looking for it.
 Monitoring I find that the harder I work, the more luck I seem to have. Artificial Intelligence API Algorithm Edge Computing Do what you love and the money will follow.
 Optimization IoT Backend Sharding Work hard in silence, let your success be your noise. Deployment The only way to do great work is to love what you do. Container Orchestration Database
+Great things never come from comfort zones. Work hard in silence, let your success be your noise. Firewalls Cloud Functions Edge Computing React Monitoring A/B Testing Backend Server Response Kafka DNS Routing Event Sourcing
