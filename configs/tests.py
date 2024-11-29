@@ -11,3 +11,4 @@ Database Indexing Kubernetes Difficult roads often lead to beautiful destination
 Cloud OAuth Machine Learning Simplicity is the ultimate sophistication. Scalability
 Sharding Framework JavaScript Dream big and dare to fail. Data Science
 Logging Content Delivery Network Quantum Computing Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Simplicity is the ultimate sophistication. RabbitMQ Stay hungry, stay foolish. A/B Testing UX Optimization Optimization Docker Multi-threading
+Sharding Content Delivery Network JWT JavaScript Event-driven Architecture Great things never come from comfort zones.

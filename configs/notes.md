@@ -10,3 +10,4 @@ Multi-threading Machine Learning Server Response Logging Kubernetes Opportunitie
 Cloud Functions DevOps Performance Algorithm Pull Request Kubernetes
 Deployment The only way to do great work is to love what you do. Pull Request API Gateway Kafka Docker Happiness is not something ready made. It comes from your own actions. Database Indexing Performance Automation
 Data Pipeline Framework Logging Content Delivery Network I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Docker API To be the best, you must be able to handle the worst. Containerization Algorithm Database Indexing
+Artificial Intelligence Content Delivery Network Backend Python Difficult roads often lead to beautiful destinations. Kafka Version Control Database Indexing Performance Firewalls Monitoring Event Sourcing Code Review Logging Success is how high you bounce when you hit bottom.
