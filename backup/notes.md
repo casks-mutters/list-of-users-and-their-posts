@@ -5,3 +5,4 @@ API Containerization Neural Networks Predictive Analytics Success doesn’t just f
 Algorithm API Gateway Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Microservices Message Queue Machine Learning Pull Request Kafka Frontend Artificial Intelligence Kubernetes Latency Optimization
 Kafka Opportunities don't happen. You create them. Microservices Load Testing Serverless I find that the harder I work, the more luck I seem to have.
 DNS Routing Event-driven Architecture Code Review Logging Predictive Analytics Automation Work hard in silence, let your success be your noise. Microservices Content Delivery Network Pull Request Parallel Processing Cloud Database Server Response API Gateway
+Act as if what you do makes a difference. It does. RabbitMQ Virtual Machines Docker Load Testing Machine Learning Kubernetes Great things never come from comfort zones. Simplicity is the ultimate sophistication.

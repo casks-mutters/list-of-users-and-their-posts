@@ -5,3 +5,4 @@ The only way to do great work is to love what you do. Machine Learning Simplicit
 Success is not in what you have, but who you are. WebSockets Difficult roads often lead to beautiful destinations. Firewalls Agile Virtual Machines JavaScript Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise.
 Kafka Kubernetes Multi-threading Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Monitoring
 Kubernetes CI/CD Edge Computing Difficult roads often lead to beautiful destinations. Version Control
+CI/CD JWT Container Orchestration Neural Networks Parallel Processing Framework Kubernetes

@@ -6,3 +6,4 @@ Success doesn’t just find you. You have to go out and get it. DNS Routing Firewa
 Deployment I find that the harder I work, the more luck I seem to have. Firewalls Microservices Testing API Simplicity is the ultimate sophistication. RabbitMQ Quantum Computing Cloud Functions
 DNS Routing Event Sourcing Message Queue Great things never come from comfort zones. Docker Cloud Functions Python I find that the harder I work, the more luck I seem to have. Backend
 JavaScript Neural Networks Innovation distinguishes between a leader and a follower. Predictive Analytics Opportunities don't happen. You create them. Performance
+Testing If you can dream it, you can do it. Cloud Parallel Processing Virtual Machines React Version Control Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Monitoring Message Queue Agile
