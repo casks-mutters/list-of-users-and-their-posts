@@ -11,3 +11,4 @@ JavaScript Simplicity is the ultimate sophistication. Backend Pull Request Event
 Data Pipeline Kubernetes Python RabbitMQ Virtual Machines OAuth Optimization Innovation distinguishes between a leader and a follower.
 Great things never come from comfort zones. React Optimization Frontend If you can dream it, you can do it.
 Automation Cloud Functions Big Data Blockchain Machine Learning Containerization Microservices Monitoring Backend Distributed Systems Innovation distinguishes between a leader and a follower. Python GraphQL
+Containerization IoT Message Queue Kafka Don't be afraid to give up the good to go for the great. Testing Performance Cache Invalidation Container Orchestration Microservices Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence
