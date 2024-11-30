@@ -3,3 +3,4 @@ Latency Optimization Container Orchestration Dream big and dare to fail. Distrib
 Parallel Processing DevOps NLP Firewalls Serverless Lambda Functions
 Neural Networks Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Containerization Latency Optimization Big Data Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Version Control
 Data Pipeline JWT Version Control Database Difficult roads often lead to beautiful destinations. Event Sourcing Algorithm IoT WebSockets Act as if what you do makes a difference. It does. Latency Optimization Agile API
+Big Data Logging Microservices JWT Neural Networks Cache Invalidation
