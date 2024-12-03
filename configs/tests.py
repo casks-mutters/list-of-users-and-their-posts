@@ -9,3 +9,4 @@ Zero Downtime Deployment Great things never come from comfort zones. Success is 
 Artificial Intelligence Load Testing Algorithm Microservices API Success doesn’t just find you. You have to go out and get it. NLP Frontend Opportunities don't happen. You create them. Great things never come from comfort zones. Blockchain Automation Event Sourcing Don't be afraid to give up the good to go for the great.
 Database Indexing Kubernetes Difficult roads often lead to beautiful destinations. DevOps CI/CD Big Data
 Cloud OAuth Machine Learning Simplicity is the ultimate sophistication. Scalability
+Sharding Framework JavaScript Dream big and dare to fail. Data Science
