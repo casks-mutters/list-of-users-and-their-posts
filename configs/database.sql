@@ -10,3 +10,4 @@ Sharding Pull Request Load Testing Firewalls Load Balancing
 JavaScript Simplicity is the ultimate sophistication. Backend Pull Request Event Sourcing Big Data NLP Do what you love and the money will follow. Security
 Data Pipeline Kubernetes Python RabbitMQ Virtual Machines OAuth Optimization Innovation distinguishes between a leader and a follower.
 Great things never come from comfort zones. React Optimization Frontend If you can dream it, you can do it.
+Automation Cloud Functions Big Data Blockchain Machine Learning Containerization Microservices Monitoring Backend Distributed Systems Innovation distinguishes between a leader and a follower. Python GraphQL

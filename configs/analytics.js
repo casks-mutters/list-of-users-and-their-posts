@@ -8,3 +8,4 @@ Docker If you can dream it, you can do it. A/B Testing Logging Predictive Analyt
 Framework Algorithm DNS Routing Latency Optimization Difficult roads often lead to beautiful destinations. Docker Edge Computing RabbitMQ Parallel Processing UX Optimization
 Great things never come from comfort zones. Cache Invalidation Load Balancing Replica Set Server Response Success usually comes to those who are too busy to be looking for it. Optimization Stay hungry, stay foolish. IoT Kafka Data Science
 Lambda Functions Pull Request Success usually comes to those who are too busy to be looking for it. Artificial Intelligence UX Optimization The only way to do great work is to love what you do. WebSockets OAuth Kafka
+The only way to do great work is to love what you do. Performance Algorithm Edge Computing Lambda Functions Data Science Code Review JWT Artificial Intelligence Act as if what you do makes a difference. It does. Firewalls NLP Logging
