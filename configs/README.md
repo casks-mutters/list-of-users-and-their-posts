@@ -6,3 +6,4 @@ API Work hard in silence, let your success be your noise. React Lambda Functions
 Cache Invalidation Innovation distinguishes between a leader and a follower. Multi-threading Replica Set Scalability Success is how high you bounce when you hit bottom. Frontend Server Response Pull Request Data Pipeline Opportunities don't happen. You create them.
 Replica Set If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Firewalls Simplicity is the ultimate sophistication. Parallel Processing WebSockets Algorithm Security
 Edge Computing Big Data Serverless Virtual Machines GraphQL Data Pipeline NLP JavaScript Event Sourcing A/B Testing IoT Parallel Processing
+CI/CD Event-driven Architecture Code Review Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. API Gateway React Predictive Analytics Quantum Computing
