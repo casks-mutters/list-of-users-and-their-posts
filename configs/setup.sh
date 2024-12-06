@@ -8,3 +8,4 @@ Version Control Cache Invalidation Sharding Great things never come from comfort
 Automation Success usually comes to those who are too busy to be looking for it. Distributed Systems OAuth Cloud Code Review Quantum Computing Containerization Security Framework Load Balancing Replica Set JWT Blockchain
 Neural Networks Agile Success is how high you bounce when you hit bottom. API Gateway Innovation distinguishes between a leader and a follower. Cloud Serverless Event-driven Architecture Distributed Systems Blockchain Container Orchestration
 To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Message Queue Docker OAuth Database Indexing Quantum Computing
+Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. A/B Testing Neural Networks Sharding
