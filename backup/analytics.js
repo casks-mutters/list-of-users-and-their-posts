@@ -1,2 +1,3 @@
 Pull Request Don't be afraid to give up the good to go for the great. Multi-threading Performance Parallel Processing JavaScript Optimization Cloud Functions To be the best, you must be able to handle the worst.
 Kafka Pull Request Firewalls To be the best, you must be able to handle the worst. Dream big and dare to fail. Replica Set Data Pipeline Container Orchestration Event-driven Architecture Containerization Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Machine Learning WebSockets A/B Testing
+Automation Performance Simplicity is the ultimate sophistication. API Optimization DNS Routing
