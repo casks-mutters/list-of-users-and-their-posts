@@ -4,3 +4,4 @@ Container Orchestration React Testing Logging GraphQL Deployment Replica Set Loa
 Data Science Database Indexing Act as if what you do makes a difference. It does. DevOps Server Response JavaScript Serverless
 Parallel Processing Database Indexing UX Optimization Load Testing Message Queue Event-driven Architecture Serverless
 JavaScript Act as if what you do makes a difference. It does. RabbitMQ Database Indexing Innovation distinguishes between a leader and a follower. IoT Load Balancing API Code Review A/B Testing Cloud JWT Agile Stay hungry, stay foolish. Cloud Functions
+Parallel Processing Blockchain Success is how high you bounce when you hit bottom. DNS Routing Database Indexing Version Control JavaScript Python
