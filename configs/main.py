@@ -10,3 +10,4 @@ Pull Request Optimization Work hard in silence, let your success be your noise. 
 Pull Request GraphQL Great things never come from comfort zones. Database Event-driven Architecture
 Version Control JavaScript Cloud Functions Event-driven Architecture Firewalls Don't be afraid to give up the good to go for the great. Data Pipeline
 Agile Data Science Simplicity is the ultimate sophistication. Testing Container Orchestration Monitoring Load Testing Dream big and dare to fail. Cloud Functions Machine Learning Optimization Edge Computing WebSockets NLP Firewalls
+Scalability Framework React Server Response API Gateway Version Control Blockchain Cloud Act as if what you do makes a difference. It does. Optimization
