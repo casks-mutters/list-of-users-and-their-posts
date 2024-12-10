@@ -12,3 +12,4 @@ IoT I find that the harder I work, the more luck I seem to have. Replica Set API
 OAuth Serverless Version Control Message Queue Automation NLP Kafka Frontend Performance GraphQL Parallel Processing API Success is how high you bounce when you hit bottom. Lambda Functions
 Algorithm Agile JavaScript Monitoring DevOps Testing UX Optimization Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
 WebSockets Containerization Cloud Machine Learning Latency Optimization Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Algorithm Load Balancing Deployment Cloud Functions API Gateway Simplicity is the ultimate sophistication. Predictive Analytics Database
+Data Science Microservices Monitoring Virtual Machines Cloud Security

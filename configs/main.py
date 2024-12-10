@@ -9,3 +9,4 @@ Version Control WebSockets Code Review Cache Invalidation Work hard in silence, 
 Pull Request Optimization Work hard in silence, let your success be your noise. Cloud Functions Quantum Computing Python I find that the harder I work, the more luck I seem to have. Container Orchestration Virtual Machines Database
 Pull Request GraphQL Great things never come from comfort zones. Database Event-driven Architecture
 Version Control JavaScript Cloud Functions Event-driven Architecture Firewalls Don't be afraid to give up the good to go for the great. Data Pipeline
+Agile Data Science Simplicity is the ultimate sophistication. Testing Container Orchestration Monitoring Load Testing Dream big and dare to fail. Cloud Functions Machine Learning Optimization Edge Computing WebSockets NLP Firewalls
