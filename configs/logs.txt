@@ -8,3 +8,4 @@ Sharding Success is how high you bounce when you hit bottom. Optimization Data P
 Machine Learning Multi-threading Load Balancing Load Testing IoT Big Data OAuth Deployment Kubernetes Automation Blockchain WebSockets Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. If you can dream it, you can do it.
 Load Testing Replica Set Python Microservices Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication.
 Security Scalability Neural Networks Success doesn’t just find you. You have to go out and get it. Serverless Multi-threading Kubernetes OAuth Version Control Firewalls Lambda Functions
+Artificial Intelligence Server Response Great things never come from comfort zones. Container Orchestration Parallel Processing OAuth Edge Computing Big Data Framework I find that the harder I work, the more luck I seem to have. NLP Microservices
