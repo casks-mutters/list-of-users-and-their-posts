@@ -8,3 +8,4 @@ Distributed Systems CI/CD JWT Do what you love and the money will follow. Diffic
 Version Control WebSockets Code Review Cache Invalidation Work hard in silence, let your success be your noise. Frontend Simplicity is the ultimate sophistication. OAuth Cloud
 Pull Request Optimization Work hard in silence, let your success be your noise. Cloud Functions Quantum Computing Python I find that the harder I work, the more luck I seem to have. Container Orchestration Virtual Machines Database
 Pull Request GraphQL Great things never come from comfort zones. Database Event-driven Architecture
+Version Control JavaScript Cloud Functions Event-driven Architecture Firewalls Don't be afraid to give up the good to go for the great. Data Pipeline
