@@ -4,3 +4,4 @@ Algorithm Server Response Serverless Latency Optimization Great things never com
 Lambda Functions Cloud Functions Code Review API Gateway Kafka Stay hungry, stay foolish. Virtual Machines CI/CD Container Orchestration Monitoring
 Quantum Computing Content Delivery Network A/B Testing Cache Invalidation NLP Cloud Functions React Parallel Processing Version Control Simplicity is the ultimate sophistication. Neural Networks Python Agile Stay hungry, stay foolish. Success is not in what you have, but who you are.
 Kubernetes Microservices Testing Neural Networks Replica Set Database I find that the harder I work, the more luck I seem to have.
+Act as if what you do makes a difference. It does. Backend Security Kafka DevOps Stay hungry, stay foolish. Parallel Processing Testing Innovation distinguishes between a leader and a follower.
