@@ -4,3 +4,4 @@ CI/CD Code Review Work hard in silence, let your success be your noise. Data Sci
 Serverless Blockchain OAuth Kafka Code Review Python Happiness is not something ready made. It comes from your own actions.
 Success doesn’t just find you. You have to go out and get it. DNS Routing Firewalls Distributed Systems Load Testing Machine Learning Framework Do what you love and the money will follow. Database NLP Artificial Intelligence
 Deployment I find that the harder I work, the more luck I seem to have. Firewalls Microservices Testing API Simplicity is the ultimate sophistication. RabbitMQ Quantum Computing Cloud Functions
+DNS Routing Event Sourcing Message Queue Great things never come from comfort zones. Docker Cloud Functions Python I find that the harder I work, the more luck I seem to have. Backend
