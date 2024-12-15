@@ -7,3 +7,4 @@ Event Sourcing Do what you love and the money will follow. GraphQL Multi-threadi
 Event Sourcing Scalability API GraphQL Zero Downtime Deployment JavaScript Event-driven Architecture Message Queue
 Zero Downtime Deployment Great things never come from comfort zones. Success is not in what you have, but who you are. Content Delivery Network Containerization Kafka API Monitoring UX Optimization WebSockets Logging Innovation distinguishes between a leader and a follower. Performance NLP Container Orchestration
 Artificial Intelligence Load Testing Algorithm Microservices API Success doesn’t just find you. You have to go out and get it. NLP Frontend Opportunities don't happen. You create them. Great things never come from comfort zones. Blockchain Automation Event Sourcing Don't be afraid to give up the good to go for the great.
+Database Indexing Kubernetes Difficult roads often lead to beautiful destinations. DevOps CI/CD Big Data
