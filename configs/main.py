@@ -7,3 +7,4 @@ RabbitMQ Docker Load Balancing I find that the harder I work, the more luck I se
 Distributed Systems CI/CD JWT Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. WebSockets Framework The only way to do great work is to love what you do. Server Response Code Review Backend
 Version Control WebSockets Code Review Cache Invalidation Work hard in silence, let your success be your noise. Frontend Simplicity is the ultimate sophistication. OAuth Cloud
 Pull Request Optimization Work hard in silence, let your success be your noise. Cloud Functions Quantum Computing Python I find that the harder I work, the more luck I seem to have. Container Orchestration Virtual Machines Database
+Pull Request GraphQL Great things never come from comfort zones. Database Event-driven Architecture
