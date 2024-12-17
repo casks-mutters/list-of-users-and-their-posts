@@ -7,3 +7,4 @@ Multi-threading I find that the harder I work, the more luck I seem to have. NLP
 Load Testing API Content Delivery Network CI/CD Success is how high you bounce when you hit bottom. Replica Set Edge Computing Kafka Kubernetes Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. UX Optimization
 If you can dream it, you can do it. Data Pipeline Optimization The only way to do great work is to love what you do. Event-driven Architecture Data Science DevOps Distributed Systems Content Delivery Network
 Optimization Cloud Difficult roads often lead to beautiful destinations. Lambda Functions Containerization To be the best, you must be able to handle the worst. Scalability Microservices Parallel Processing IoT
+Stay hungry, stay foolish. JavaScript UX Optimization Microservices A/B Testing Performance Docker React Event-driven Architecture Machine Learning Security API Gateway Predictive Analytics Load Testing
