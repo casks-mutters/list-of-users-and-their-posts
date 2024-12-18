@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. Deployment JWT Happiness i
 Algorithm Content Delivery Network Message Queue OAuth Edge Computing
 Docker If you can dream it, you can do it. A/B Testing Logging Predictive Analytics Do what you love and the money will follow. Cloud Functions IoT Database Event Sourcing Algorithm Serverless Firewalls Python NLP
 Framework Algorithm DNS Routing Latency Optimization Difficult roads often lead to beautiful destinations. Docker Edge Computing RabbitMQ Parallel Processing UX Optimization
+Great things never come from comfort zones. Cache Invalidation Load Balancing Replica Set Server Response Success usually comes to those who are too busy to be looking for it. Optimization Stay hungry, stay foolish. IoT Kafka Data Science

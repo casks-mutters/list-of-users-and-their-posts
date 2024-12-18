@@ -4,3 +4,4 @@ Framework Load Balancing Scalability Kubernetes Distributed Systems JWT Database
 API Gateway Code Review GraphQL Content Delivery Network Lambda Functions Predictive Analytics Blockchain
 Difficult roads often lead to beautiful destinations. Lambda Functions Docker Event Sourcing GraphQL Success is not in what you have, but who you are. Automation Big Data Data Pipeline Deployment
 Microservices Act as if what you do makes a difference. It does. Security The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Testing Success is how high you bounce when you hit bottom. Predictive Analytics
+I find that the harder I work, the more luck I seem to have. Cloud Functions Containerization Data Pipeline Success usually comes to those who are too busy to be looking for it. DevOps Multi-threading Act as if what you do makes a difference. It does. Testing Agile JavaScript
