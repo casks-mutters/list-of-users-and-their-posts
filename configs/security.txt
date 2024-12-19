@@ -1,3 +1,4 @@
 Big Data Optimization Docker I find that the harder I work, the more luck I seem to have. Virtual Machines Data Science JWT
 Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Big Data Cloud Functions Python Kubernetes Do what you love and the money will follow. IoT Sharding Data Science Simplicity is the ultimate sophistication.
 WebSockets Server Response Python Sharding Data Pipeline Data Science A/B Testing Simplicity is the ultimate sophistication.
+Load Testing Microservices Data Science A/B Testing Do what you love and the money will follow. Big Data RabbitMQ Framework Lambda Functions DNS Routing Containerization Difficult roads often lead to beautiful destinations.
