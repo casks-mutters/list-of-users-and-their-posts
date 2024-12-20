@@ -3,3 +3,4 @@ Load Balancing Firewalls Virtual Machines Automation Cloud Innovation distinguis
 Cache Invalidation CI/CD Dream big and dare to fail. Multi-threading Artificial Intelligence Innovation distinguishes between a leader and a follower. Content Delivery Network Act as if what you do makes a difference. It does. UX Optimization Data Pipeline Python Predictive Analytics Neural Networks
 API Containerization Neural Networks Predictive Analytics Success doesn’t just find you. You have to go out and get it. Scalability
 Algorithm API Gateway Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Microservices Message Queue Machine Learning Pull Request Kafka Frontend Artificial Intelligence Kubernetes Latency Optimization
+Kafka Opportunities don't happen. You create them. Microservices Load Testing Serverless I find that the harder I work, the more luck I seem to have.
