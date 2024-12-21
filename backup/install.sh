@@ -2,3 +2,4 @@ Parallel Processing Containerization Framework Predictive Analytics Simplicity i
 Code Review Monitoring Work hard in silence, let your success be your noise. Multi-threading Framework Event-driven Architecture Stay hungry, stay foolish. Kafka Data Science
 CI/CD Code Review Work hard in silence, let your success be your noise. Data Science Optimization WebSockets JWT Success usually comes to those who are too busy to be looking for it. Pull Request Docker
 Serverless Blockchain OAuth Kafka Code Review Python Happiness is not something ready made. It comes from your own actions.
+Success doesn’t just find you. You have to go out and get it. DNS Routing Firewalls Distributed Systems Load Testing Machine Learning Framework Do what you love and the money will follow. Database NLP Artificial Intelligence
