@@ -4,3 +4,4 @@ Algorithm Success doesn’t just find you. You have to go out and get it. RabbitMQ
 Happiness is not something ready made. It comes from your own actions. API Gateway Sharding Data Pipeline Artificial Intelligence
 Load Balancing Performance Database Optimization Security To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Event-driven Architecture
 RabbitMQ Docker Load Balancing I find that the harder I work, the more luck I seem to have. Testing Database Backend JavaScript Security DNS Routing Event Sourcing GraphQL Cloud Functions
+Distributed Systems CI/CD JWT Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. WebSockets Framework The only way to do great work is to love what you do. Server Response Code Review Backend
