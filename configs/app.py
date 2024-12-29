@@ -10,3 +10,4 @@ Success is how high you bounce when you hit bottom. Opportunities don't happen. 
 Parallel Processing Security Version Control Opportunities don't happen. You create them. Data Pipeline
 IoT I find that the harder I work, the more luck I seem to have. Replica Set API Framework Parallel Processing Security Distributed Systems Backend Testing Don't be afraid to give up the good to go for the great. Content Delivery Network Kubernetes
 OAuth Serverless Version Control Message Queue Automation NLP Kafka Frontend Performance GraphQL Parallel Processing API Success is how high you bounce when you hit bottom. Lambda Functions
+Algorithm Agile JavaScript Monitoring DevOps Testing UX Optimization Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
