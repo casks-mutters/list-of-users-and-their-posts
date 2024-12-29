@@ -8,3 +8,4 @@ DevOps Frontend Server Response Success doesn’t just find you. You have to go ou
 Lambda Functions CI/CD Scalability Edge Computing Kubernetes Testing Load Balancing Pull Request To be the best, you must be able to handle the worst. IoT Performance Code Review Do what you love and the money will follow.
 Multi-threading Machine Learning Server Response Logging Kubernetes Opportunities don't happen. You create them.
 Cloud Functions DevOps Performance Algorithm Pull Request Kubernetes
+Deployment The only way to do great work is to love what you do. Pull Request API Gateway Kafka Docker Happiness is not something ready made. It comes from your own actions. Database Indexing Performance Automation
