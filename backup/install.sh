@@ -1,3 +1,4 @@
 Parallel Processing Containerization Framework Predictive Analytics Simplicity is the ultimate sophistication. Distributed Systems Automation Database Indexing Load Balancing Lambda Functions Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does.
 Code Review Monitoring Work hard in silence, let your success be your noise. Multi-threading Framework Event-driven Architecture Stay hungry, stay foolish. Kafka Data Science
 CI/CD Code Review Work hard in silence, let your success be your noise. Data Science Optimization WebSockets JWT Success usually comes to those who are too busy to be looking for it. Pull Request Docker
+Serverless Blockchain OAuth Kafka Code Review Python Happiness is not something ready made. It comes from your own actions.
