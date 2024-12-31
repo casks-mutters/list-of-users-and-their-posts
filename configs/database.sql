@@ -7,3 +7,4 @@ Neural Networks Serverless Version Control Success usually comes to those who ar
 Lambda Functions Quantum Computing Virtual Machines Sharding Don't be afraid to give up the good to go for the great. DNS Routing Data Pipeline Kafka Pull Request Cloud Frontend React Innovation distinguishes between a leader and a follower.
 WebSockets Do what you love and the money will follow. Security Innovation distinguishes between a leader and a follower. A/B Testing Happiness is not something ready made. It comes from your own actions. Message Queue The only way to do great work is to love what you do. Framework CI/CD Pull Request Logging Database Indexing Event-driven Architecture Sharding
 Sharding Pull Request Load Testing Firewalls Load Balancing
+JavaScript Simplicity is the ultimate sophistication. Backend Pull Request Event Sourcing Big Data NLP Do what you love and the money will follow. Security
