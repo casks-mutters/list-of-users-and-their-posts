@@ -1,3 +1,4 @@
 Cache Invalidation Load Balancing Neural Networks Act as if what you do makes a difference. It does. Monitoring Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Container Orchestration DevOps Kafka
 Load Balancing Firewalls Virtual Machines Automation Cloud Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
 Cache Invalidation CI/CD Dream big and dare to fail. Multi-threading Artificial Intelligence Innovation distinguishes between a leader and a follower. Content Delivery Network Act as if what you do makes a difference. It does. UX Optimization Data Pipeline Python Predictive Analytics Neural Networks
+API Containerization Neural Networks Predictive Analytics Success doesn’t just find you. You have to go out and get it. Scalability
