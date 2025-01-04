@@ -4,3 +4,4 @@ Code Review If you can dream it, you can do it. Data Science Data Pipeline Event
 Virtual Machines Database Indexing UX Optimization Blockchain Frontend API Containerization Innovation distinguishes between a leader and a follower. Kubernetes Deployment Agile Microservices Quantum Computing
 Cloud Parallel Processing Optimization Happiness is not something ready made. It comes from your own actions. Server Response Framework Scalability Automation Docker Kubernetes The only way to do great work is to love what you do. Event-driven Architecture Python
 Multi-threading I find that the harder I work, the more luck I seem to have. NLP Event Sourcing Machine Learning Security Virtual Machines
+Load Testing API Content Delivery Network CI/CD Success is how high you bounce when you hit bottom. Replica Set Edge Computing Kafka Kubernetes Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. UX Optimization
