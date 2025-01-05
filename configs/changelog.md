@@ -1,3 +1,4 @@
 Success doesn’t just find you. You have to go out and get it. Database Indexing Scalability Machine Learning Dream big and dare to fail. DevOps Performance
 Security Success doesn’t just find you. You have to go out and get it. Data Science Blockchain React Multi-threading
 Kafka Framework Firewalls Quantum Computing Artificial Intelligence Optimization If you can dream it, you can do it. Content Delivery Network Load Testing Machine Learning
+Frontend Don't be afraid to give up the good to go for the great. Code Review RabbitMQ JWT DevOps Simplicity is the ultimate sophistication. DNS Routing Success usually comes to those who are too busy to be looking for it. Automation IoT OAuth Predictive Analytics JavaScript If you can dream it, you can do it.

@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. Performance Serverless Log
 NLP Multi-threading The only way to do great work is to love what you do. Sharding Machine Learning OAuth
 Backend OAuth Microservices Quantum Computing Opportunities don't happen. You create them. Predictive Analytics Event Sourcing Edge Computing Monitoring Replica Set Act as if what you do makes a difference. It does. Pull Request Virtual Machines
 Event-driven Architecture Content Delivery Network Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. GraphQL API
+Latency Optimization Optimization Happiness is not something ready made. It comes from your own actions. Firewalls Server Response Load Balancing Automation To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower.
