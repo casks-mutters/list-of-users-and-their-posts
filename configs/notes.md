@@ -4,3 +4,4 @@ Distributed Systems Success is how high you bounce when you hit bottom. Latency 
 Monitoring OAuth Work hard in silence, let your success be your noise. Optimization Message Queue Deployment Cloud Artificial Intelligence Predictive Analytics Load Balancing Sharding
 Virtual Machines Distributed Systems GraphQL Event Sourcing RabbitMQ Event-driven Architecture Data Science Kafka
 Message Queue Algorithm API Gateway Happiness is not something ready made. It comes from your own actions. JWT
+DevOps Frontend Server Response Success doesn’t just find you. You have to go out and get it. Framework
