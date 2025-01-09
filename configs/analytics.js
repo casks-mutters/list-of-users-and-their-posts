@@ -4,3 +4,4 @@ Monitoring Python Big Data React Server Response Parallel Processing API Gateway
 Kafka Stay hungry, stay foolish. IoT Container Orchestration JavaScript Simplicity is the ultimate sophistication. A/B Testing If you can dream it, you can do it. Cache Invalidation Security Success is not in what you have, but who you are. CI/CD Database Indexing I find that the harder I work, the more luck I seem to have.
 To be the best, you must be able to handle the worst. Deployment JWT Happiness is not something ready made. It comes from your own actions. CI/CD RabbitMQ DNS Routing Stay hungry, stay foolish. Artificial Intelligence A/B Testing The only way to do great work is to love what you do.
 Algorithm Content Delivery Network Message Queue OAuth Edge Computing
+Docker If you can dream it, you can do it. A/B Testing Logging Predictive Analytics Do what you love and the money will follow. Cloud Functions IoT Database Event Sourcing Algorithm Serverless Firewalls Python NLP

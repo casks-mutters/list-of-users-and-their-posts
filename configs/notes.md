@@ -5,3 +5,4 @@ Monitoring OAuth Work hard in silence, let your success be your noise. Optimizat
 Virtual Machines Distributed Systems GraphQL Event Sourcing RabbitMQ Event-driven Architecture Data Science Kafka
 Message Queue Algorithm API Gateway Happiness is not something ready made. It comes from your own actions. JWT
 DevOps Frontend Server Response Success doesn’t just find you. You have to go out and get it. Framework
+Lambda Functions CI/CD Scalability Edge Computing Kubernetes Testing Load Balancing Pull Request To be the best, you must be able to handle the worst. IoT Performance Code Review Do what you love and the money will follow.
