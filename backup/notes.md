@@ -1,1 +1,2 @@
 Cache Invalidation Load Balancing Neural Networks Act as if what you do makes a difference. It does. Monitoring Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Container Orchestration DevOps Kafka
+Load Balancing Firewalls Virtual Machines Automation Cloud Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
