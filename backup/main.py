@@ -1,2 +1,3 @@
 Database Happiness is not something ready made. It comes from your own actions. Framework JavaScript Frontend The only way to do great work is to love what you do. Artificial Intelligence Simplicity is the ultimate sophistication. Multi-threading
 Artificial Intelligence NLP Framework I find that the harder I work, the more luck I seem to have. Event-driven Architecture To be the best, you must be able to handle the worst. Event Sourcing Simplicity is the ultimate sophistication. Content Delivery Network JWT Agile
+Logging Python Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. IoT React DNS Routing Algorithm
