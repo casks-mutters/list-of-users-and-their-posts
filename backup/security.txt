@@ -3,3 +3,4 @@ Backend Kafka Code Review Frontend Success usually comes to those who are too bu
 DevOps Automation Serverless Event Sourcing Cache Invalidation Firewalls Containerization Latency Optimization GraphQL Event-driven Architecture
 Virtual Machines Multi-threading Security Framework Data Pipeline Sharding Artificial Intelligence Dream big and dare to fail.
 Pull Request Data Science Automation Load Balancing JavaScript IoT
+Message Queue Do what you love and the money will follow. Database API Version Control Framework Stay hungry, stay foolish. Frontend Happiness is not something ready made. It comes from your own actions. API Gateway Cloud JavaScript Kafka Artificial Intelligence To be the best, you must be able to handle the worst.
