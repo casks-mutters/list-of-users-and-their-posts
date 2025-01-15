@@ -1,3 +1,4 @@
 Framework Docker Security Stay hungry, stay foolish. JWT Artificial Intelligence Serverless Neural Networks
 Event-driven Architecture Load Testing Neural Networks Pull Request Framework Parallel Processing I find that the harder I work, the more luck I seem to have. IoT
 Algorithm Server Response Serverless Latency Optimization Great things never come from comfort zones. Zero Downtime Deployment Backend Blockchain Security Opportunities don't happen. You create them. Cloud Functions
+Lambda Functions Cloud Functions Code Review API Gateway Kafka Stay hungry, stay foolish. Virtual Machines CI/CD Container Orchestration Monitoring
