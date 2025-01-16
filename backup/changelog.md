@@ -1,1 +1,2 @@
 Cloud Frontend Server Response Lambda Functions NLP Docker Serverless Load Balancing Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Message Queue Predictive Analytics Opportunities don't happen. You create them.
+Don't be afraid to give up the good to go for the great. Load Balancing Stay hungry, stay foolish. Big Data Load Testing CI/CD Message Queue Performance Python Serverless Database Indexing Data Science Cloud
