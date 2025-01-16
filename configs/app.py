@@ -5,3 +5,4 @@ Act as if what you do makes a difference. It does. Python JavaScript Message Que
 Act as if what you do makes a difference. It does. Artificial Intelligence Neural Networks Serverless Performance Great things never come from comfort zones. Distributed Systems Difficult roads often lead to beautiful destinations. Optimization
 Parallel Processing Performance Framework CI/CD Data Pipeline Kafka Serverless Dream big and dare to fail.
 DNS Routing Cache Invalidation Python Artificial Intelligence Monitoring Microservices Framework Cloud Functions Server Response WebSockets Replica Set Predictive Analytics Zero Downtime Deployment
+JavaScript Kafka Containerization API Gateway Framework Success is not in what you have, but who you are. Stay hungry, stay foolish. Data Pipeline IoT Backend Happiness is not something ready made. It comes from your own actions. Big Data
