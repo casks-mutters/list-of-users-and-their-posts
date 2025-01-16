@@ -1,3 +1,4 @@
 If you can dream it, you can do it. Sharding WebSockets Docker Logging Database Indexing
 I find that the harder I work, the more luck I seem to have. A/B Testing Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Python Success doesn’t just find you. You have to go out and get it. Load Balancing React Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them.
 Algorithm Success doesn’t just find you. You have to go out and get it. RabbitMQ Virtual Machines Serverless Cloud Functions Simplicity is the ultimate sophistication. Framework Message Queue Optimization Containerization Cloud Lambda Functions A/B Testing Python
+Happiness is not something ready made. It comes from your own actions. API Gateway Sharding Data Pipeline Artificial Intelligence
