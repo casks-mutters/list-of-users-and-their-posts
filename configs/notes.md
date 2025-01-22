@@ -3,3 +3,4 @@ Content Delivery Network Latency Optimization Cloud Functions If you can dream i
 Distributed Systems Success is how high you bounce when you hit bottom. Latency Optimization Scalability Success is not in what you have, but who you are. Artificial Intelligence Do what you love and the money will follow. Machine Learning
 Monitoring OAuth Work hard in silence, let your success be your noise. Optimization Message Queue Deployment Cloud Artificial Intelligence Predictive Analytics Load Balancing Sharding
 Virtual Machines Distributed Systems GraphQL Event Sourcing RabbitMQ Event-driven Architecture Data Science Kafka
+Message Queue Algorithm API Gateway Happiness is not something ready made. It comes from your own actions. JWT
