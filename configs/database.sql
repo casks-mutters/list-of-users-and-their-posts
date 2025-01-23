@@ -1,3 +1,4 @@
 Optimization Success is not in what you have, but who you are. Pull Request Simplicity is the ultimate sophistication. NLP To be the best, you must be able to handle the worst. Artificial Intelligence Kubernetes Microservices
 Automation Dream big and dare to fail. The only way to do great work is to love what you do. Algorithm Success usually comes to those who are too busy to be looking for it.
 API Pull Request Great things never come from comfort zones. Containerization Distributed Systems
+Pull Request API Gateway Great things never come from comfort zones. The only way to do great work is to love what you do. RabbitMQ Latency Optimization Big Data Opportunities don't happen. You create them. Blockchain Automation Kafka Happiness is not something ready made. It comes from your own actions. Neural Networks Do what you love and the money will follow.
