@@ -1,0 +1,1 @@
+Backend Happiness is not something ready made. It comes from your own actions. Python Edge Computing Data Science Latency Optimization JavaScript Success usually comes to those who are too busy to be looking for it. Big Data Pull Request Data Pipeline Success is how high you bounce when you hit bottom. Multi-threading Don't be afraid to give up the good to go for the great.
