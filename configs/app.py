@@ -2,3 +2,4 @@ CI/CD Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Pred
 Success doesn’t just find you. You have to go out and get it. WebSockets Logging Edge Computing Load Balancing Frontend Work hard in silence, let your success be your noise. Containerization
 Success is not in what you have, but who you are. Data Science Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Deployment Python Cloud
 Act as if what you do makes a difference. It does. Python JavaScript Message Queue Success usually comes to those who are too busy to be looking for it. Big Data Parallel Processing Kafka OAuth Framework Docker Database
+Act as if what you do makes a difference. It does. Artificial Intelligence Neural Networks Serverless Performance Great things never come from comfort zones. Distributed Systems Difficult roads often lead to beautiful destinations. Optimization
