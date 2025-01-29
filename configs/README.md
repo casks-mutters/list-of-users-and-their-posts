@@ -1,3 +1,4 @@
 Frontend Containerization Cloud Functions Monitoring A/B Testing Zero Downtime Deployment Backend Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones.
 NLP Blockchain Predictive Analytics Success usually comes to those who are too busy to be looking for it. Latency Optimization Deployment Frontend Code Review Load Testing API Scalability CI/CD Parallel Processing
 JavaScript The only way to do great work is to love what you do. Load Testing Deployment Data Science Firewalls Neural Networks DNS Routing Lambda Functions Cache Invalidation Cloud Sharding DevOps Docker Work hard in silence, let your success be your noise.
+Optimization WebSockets Security Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Kubernetes
