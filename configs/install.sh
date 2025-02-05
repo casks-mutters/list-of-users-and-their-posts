@@ -1,0 +1,1 @@
+Cloud Functions Event Sourcing Containerization Act as if what you do makes a difference. It does. Data Science Data Pipeline Event-driven Architecture Simplicity is the ultimate sophistication. Version Control
