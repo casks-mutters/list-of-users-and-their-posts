@@ -1,0 +1,1 @@
+Cloud Frontend Server Response Lambda Functions NLP Docker Serverless Load Balancing Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Message Queue Predictive Analytics Opportunities don't happen. You create them.
