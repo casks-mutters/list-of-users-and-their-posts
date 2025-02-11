@@ -1,0 +1,1 @@
+Monitoring Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Distributed Systems Database Indexing Container Orchestration Kubernetes API Version Control Containerization RabbitMQ Success is not in what you have, but who you are. Cloud Event-driven Architecture Scalability
